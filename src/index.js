@@ -23,6 +23,7 @@ for(let i = 0; i < toy.length; i++) {
   <p>${toy[i].likes} Likes </p>
   <button data-id=${toy[i].id} class="like-btn">Like <3</button>
   </ul>`
+  // set data-id to dataset to identify a specific toy 
 
   toyCollection.appendChild(divTag)
   // add to the parent to show on the page
