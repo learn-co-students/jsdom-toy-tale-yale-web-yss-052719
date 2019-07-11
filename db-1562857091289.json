@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 21
+      "likes": 5
     },
     {
       "id": 2,
@@ -16,7 +16,7 @@
       "id": 3,
       "name": "Mr. Potato Head",
       "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 14
+      "likes": 3
     },
     {
       "id": 4,
@@ -43,16 +43,10 @@
       "likes": 0
     },
     {
-      "name": "Lotso ",
-      "image": "http://www.sclance.com/pngs/toy-png/toy_png_1398528.png",
-      "likes": 33,
-      "id": 10
-    },
-    {
-      "name": "Aladdin & Jasmine",
-      "image": "https://www.nicepng.com/png/detail/134-1341709_aladdin-alladin-e-jasmine-4-png-aladdin-magic.png",
-      "likes": 18,
-      "id": 11
+      "id": 8,
+      "name": "Little Green Men",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": -2
     }
   ]
 }
