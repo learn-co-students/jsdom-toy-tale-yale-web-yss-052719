@@ -43,9 +43,15 @@
       "likes": 0
     },
     {
+      "id": 8,
+      "name": "Little Green Men",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
+      "likes": 15
+    },
+    {
       "name": "Lotso ",
       "image": "http://www.sclance.com/pngs/toy-png/toy_png_1398528.png",
-      "likes": 33,
+      "likes": 29,
       "id": 10
     },
     {
